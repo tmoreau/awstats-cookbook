@@ -12,4 +12,4 @@ supports         "ubuntu"
 depends          "apache2", ">= 2.0.0"
 depends          "cron"
 
-depends          "htpasswd"
+#depends          "htpasswd"
